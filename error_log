@@ -1,0 +1,6 @@
+[10-Dec-2023 15:17:57 UTC] PHP Fatal error:  Cannot redeclare App\Http\Controllers\FrontendController::heliopolis() in /home/famillyn/public_html/blog/project/app/Http/Controllers/FrontendController.php on line 178
+[16-Apr-2024 20:13:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function cb`cp() in /home/xdvhxtrmmfwf/public_html/yahpowerworks.com/options.php:137
+Stack trace:
+#0 {main}
+  thrown in /home/xdvhxtrmmfwf/public_html/yahpowerworks.com/options.php on line 137
+[16-Apr-2024 20:15:00 UTC] PHP Parse error:  syntax error, unexpected variable "$qrnapvatll", expecting ")" in /home/xdvhxtrmmfwf/public_html/yahpowerworks.com/admin-ajax.php on line 24
